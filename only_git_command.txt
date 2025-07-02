@@ -1,0 +1,28 @@
+   17  cd .git/
+   21  git status
+   22  git commit -m "Added wrong file"
+   23  git add demo.py
+   24  git status
+   25  git commit -m "Added wrong file"
+   34  git add demo.py
+   35  git commit -m "Added wrong file"
+   36  git branch
+   37  git switch master
+   39  git add demo.py
+   40  git commit -m "Added wrong file"
+   41  git add demo.py
+   42  git commit -m "Added wrong file"
+   43  git commit -m "Added wrong file"
+   44  git add demo.py
+   45  git commit -m "Added wrong file"
+   46  git add demo.py
+   47  git commit -m "Added wrong file"
+   48  git commit -m "Added wrong file"
+   49  git commit -m "Added wrong file"
+   50  git commit -m "Added wrong file"
+   51  git add demo.py
+   52  git commit -m "Added wrong file"
+   53  git commit -m "Added wrong file"
+   54  git add demo.py
+   55  git commit -m "Added wrong file"
+   56  history|grep -i git
