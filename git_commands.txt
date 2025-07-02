@@ -34,3 +34,29 @@
   36 cd .\90DaysOfDevOps\
 
 This is new line
+ 42 git status
+  43 git commit -m "updated git commands"
+  44 git status
+  45 git push origin master
+  46 git status
+  47 git pull origin master
+  48 git pull origin master
+  49 git branch
+  50 git branch dev
+  51 git branch
+  52 git switch dev
+  53 git status
+  54 git add .\this_is_drom_dev.txt
+  55 git commit -m "dev branch commit"
+  56 git status
+  57 git switch master
+  58 ls
+  59 git switch dev
+  60 ls
+  61 git log
+  62 git switch master
+  63 git log
+  64 git switch dev
+  65 git push origin dev
+  66 git switch master
+  67 git pull origin master
