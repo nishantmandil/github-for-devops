@@ -19,3 +19,16 @@
   20 git status
   21 git restore testing.py
   22 git status
+  24 git status
+  25 git add .
+  26 git commit -m "adding command TXT"
+  27 git status
+  28 git remote add origin https://github.com/nishantmandil/github-for-devops.git
+  29 git remote -v
+  30 git push origin master
+  31 cd ../
+  32 mkdir git-demo
+  33 c .\git-demo\
+  34 cd .\git-demo\
+  35 git clone https://github.com/nishantmandil/90DaysOfDevOps.git
+  36 cd .\90DaysOfDevOps\
